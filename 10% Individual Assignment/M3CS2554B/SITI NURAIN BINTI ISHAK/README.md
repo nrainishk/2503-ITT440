@@ -84,7 +84,7 @@ pygame.quit()
 `resized_image.jpg`
 
 ### Link Video
-https://youtu.be/GOwRQIh7XNc?si=UODbgnNaNmDk_VMP
+https://youtu.be/GOwRQIh7XNc?si=UODbgnNaNmDk_VMP 
 
 ### Conclusion
 Using Pygame, basic image processing tasks like rotating, flipping, and resizing can be implemented easily with just a few lines of Python code. These operations provide a good foundation for more advanced image manipulation projects.
